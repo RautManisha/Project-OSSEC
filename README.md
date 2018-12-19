@@ -1,2 +1,2 @@
 # THIS IS A CHECK README
-Let's see what this doe
+Let's see what this does.
